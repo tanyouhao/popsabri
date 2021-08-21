@@ -6,7 +6,7 @@ window.onload = function(){
 
     img.addEventListener('mousedown', function (){
         increaseScore();
-        img.src = 'sabri.png';
+        img.src = 'sabripm.png';
         audio.play();
     });
 
